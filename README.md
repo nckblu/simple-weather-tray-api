@@ -5,9 +5,6 @@ The API for [Simple Weather Tray for Mac OSX](https://github.com/nckblu/simple-w
 ## Technologies
 SWT API is built using node/koa
 
-## Preview
-![swt](https://raw.githubusercontent.com/nckblu/simple-weather-tray/master/preview.png)
-
 ## API
 SWT makes use of the [OpenWeatherMap API](https://openweathermap.org).
 
