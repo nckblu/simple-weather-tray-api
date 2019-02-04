@@ -17,6 +17,7 @@ class WeatherController {
 		} catch (e) {
 			ctx.throw(500, 'Error getting weather');
 		}
+		
 		const data = WeatherService.getDataFromResponse(response);
 		ctx.body = data;
 	}
